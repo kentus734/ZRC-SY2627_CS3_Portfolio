@@ -1,5 +1,5 @@
 # ===== Single =====
-
+print("\nSingle Inheritance:")
 class darthParent:
     def star(self):
         print("Luke, I am your father.")
@@ -13,7 +13,7 @@ obj.star()
 obj.wars()
 
 # ===== Multilevel =====
-
+print("\nMultilevel Inheritance:")
 class Grandfather:
     def __init__(self, grandfathername):
         self.grandfathername = grandfathername
@@ -38,6 +38,7 @@ print(s1.grandfathername)
 s1.print_name()
 
 # ===== Hierarchical =====
+print("\nHierarchical Inheritance:")
 
 class Kent:
     def func1(self):
@@ -57,4 +58,3 @@ object1.func1()
 object1.func2()
 object2.func1()
 object2.func3()
-
