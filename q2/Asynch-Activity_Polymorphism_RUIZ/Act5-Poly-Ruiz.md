@@ -11,4 +11,4 @@ common?
 3. Can you think of other examples where the same action behaves differently depending on
 the character or item?
 
-    An example that i can think of is the attack() method that can be used on the Warrior, Mage, and Archer, and it can output different things depending on the class. For example, using attack() method on a Warrior can output a string that says "Swoosh! *Clank*" while the mage can output "Fzzz-pop!" and the archer outputs "Pew!".
+    An example that I can think of is the attack() method that can be used on the Warrior, Mage, and Archer, and it can output different things depending on the class. For example, using attack() method on a Warrior can output a string that says "Swoosh! *Clank*" while the mage can output "Fzzz-pop!" and the archer outputs "Pew!".
